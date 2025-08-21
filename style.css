@@ -8,16 +8,16 @@
 
 body {
     font-family: 'Poppins', sans-serif;
-    background: linear-gradient(135deg, #3a6073, #16222a);
+    background-image: url('leonida-keys-gta-6-3840x2160-22317.jpg');
     height: 100vh;
     display: flex;
     justify-content: center;
     align-items: center;
-    color: #f5f5f5;
+    color: #0e15df;
 }
 
 .weather-container {
-    background: rgba(255, 255, 255, 0.08);
+    background: rgba(164, 9, 9, 0.08);
     padding: 35px 30px;
     border-radius: 20px;
     box-shadow: 0 8px 32px 0 rgba(0, 0, 0, 0.37);
@@ -60,7 +60,7 @@ button {
     padding: 12px 25px;
     border: none;
     border-radius: 10px;
-    background-color: #00c9a7;
+    background-color: #170bc7;
     color: #fff;
     font-weight: 600;
     font-size: 16px;
@@ -73,7 +73,7 @@ button:hover {
 }
 
 .result-box {
-    background-color: rgba(255, 255, 255, 0.1);
+    background-color: rgba(199, 13, 13, 0.1);
     border-radius: 12px;
     padding: 20px;
     margin-top: 20px;
